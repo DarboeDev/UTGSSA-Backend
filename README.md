@@ -365,4 +365,5 @@ For support and questions:
 
 **Note**: This backend server is designed to work with the UTG Science Student Association frontend application. Make sure both applications are properly configured to communicate with each other.
 #   U T G S S A - B a c k e n d  
+ #   U T G S S A - B a c k e n d  
  
